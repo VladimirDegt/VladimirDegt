@@ -33,8 +33,7 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 
 ### Trophy
 
-https://github-profile-trophy.vercel.app/?VladimirDegt=ryo-ma&theme=flat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?VladimirDegt=anuraghazra&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VladimirDegt)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Badges
 
