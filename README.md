@@ -1,7 +1,6 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dehtiarev Volodymyr
-<h1 align="center">Hi there, I'm Dehtiarev Volodymyr</h1>![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<h1 align="center">Hi there, I'm Dehtiarev Volodymyr</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <h3 align="center">Javascript developer</h3>
-## Javascript developer
+
 
 I'm a passionate JavaScript developer with of experience in front-end development and expertise in the JavaScript- framework React. I have a track of delivering high-quality web applications and enjoy collaborating in teams. With a strong focus on clean, maintainable code and exceptional user experiences, I continuously stay updated with the latest industry trends to drive innovation in my work. Let's connect and discuss how I can contribute to your projects and build amazing web applications together.
 
@@ -47,9 +46,6 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirDegt&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VladimirDegt&theme=solarized_dark)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirDegt)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Codewars
 
