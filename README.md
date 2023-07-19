@@ -39,6 +39,16 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 
 <b>My GitHub Stats</b>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirDegt&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladimirDegt&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladimirDegt&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirDegt&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VladimirDegt&theme=solarized_dark)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirDegt)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="http://www.github.com/VladimirDegt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirDegt&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
