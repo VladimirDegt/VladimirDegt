@@ -31,6 +31,8 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 
 <p align="left"> <a href="https://www.github.com/VladimirDegt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/volodymyr-dehtiarev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?VladimirDegt=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Badges
 
 <b>My GitHub Stats</b>
