@@ -49,3 +49,6 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 
 [![codewars](https://www.codewars.com/users/VladimirDegt/badges/large)](https://www.codewars.com/users/username)   
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![](https://komarev.com/ghpvc/?username=VladimirDegt)
