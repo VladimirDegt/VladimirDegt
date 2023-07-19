@@ -2,16 +2,18 @@
 <h3 align="center">Javascript developer</h3>
 </br>
 
-<div align="center">
+
 I'm a passionate JavaScript developer with of experience in front-end development and expertise in the JavaScript- framework React. I have a track of delivering high-quality web applications and enjoy collaborating in teams. With a strong focus on clean, maintainable code and exceptional user experiences, I continuously stay updated with the latest industry trends to drive innovation in my work. Let's connect and discuss how I can contribute to your projects and build amazing web applications together.
 
 - 🌍  I'm based in Kharkiv
 - ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
 - 🧠  I'm learning Neoversity. IT Master\`s degree
 
-### Skills
+<div align="center">
+<h3 align="center">Skills</h3>
+<!-- ### Skills -->
 
-<p align="left">
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -28,15 +30,18 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+<h3 align="center">Socials</h3>
+<!-- ### Socials -->
 
-<p align="left"> <a href="https://www.github.com/VladimirDegt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/volodymyr-dehtiarev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/VladimirDegt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/volodymyr-dehtiarev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Trophy
+<h3 align="center">Trophy</h3>
+<!-- ### Trophy -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VladimirDegt)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Stats
+<h3 align="center">Stats</h3>
+<!-- ### Stats -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirDegt&theme=solarized_dark)
 
@@ -48,7 +53,8 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VladimirDegt&theme=solarized_dark)
 
-### Codewars
+<h3 align="center">Codewars</h3>
+<!-- ### Codewars -->
 
 [![codewars](https://www.codewars.com/users/VladimirDegt/badges/large)](https://www.codewars.com/users/username)   
 
