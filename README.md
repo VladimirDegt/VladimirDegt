@@ -1,5 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dehtiarev Volodymyr
-
+<h1 align="center">Hi there, I'm Dehtiarev Volodymyr</h1>![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<h3 align="center">Javascript developer</h3>
 ## Javascript developer
 
 I'm a passionate JavaScript developer with of experience in front-end development and expertise in the JavaScript- framework React. I have a track of delivering high-quality web applications and enjoy collaborating in teams. With a strong focus on clean, maintainable code and exceptional user experiences, I continuously stay updated with the latest industry trends to drive innovation in my work. Let's connect and discuss how I can contribute to your projects and build amazing web applications together.
@@ -35,9 +36,7 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VladimirDegt)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Badges
-
-<b>My GitHub Stats</b>
+### Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirDegt&theme=solarized_dark)
 
@@ -51,9 +50,6 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirDegt)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="http://www.github.com/VladimirDegt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirDegt&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/VladimirDegt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirDegt&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Codewars
 
