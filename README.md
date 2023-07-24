@@ -40,8 +40,11 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VladimirDegt)](https://github.com/ryo-ma/github-profile-trophy)
 
+<h3 align="center">Codewars</h3>
+
+[![codewars](https://www.codewars.com/users/VladimirDegt/badges/large)](https://www.codewars.com/users/username)   
+
 <h3 align="center">Stats</h3>
-<!-- ### Stats -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirDegt&theme=solarized_dark)
 
@@ -52,11 +55,6 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirDegt&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VladimirDegt&theme=solarized_dark)
-
-<h3 align="center">Codewars</h3>
-<!-- ### Codewars -->
-
-[![codewars](https://www.codewars.com/users/VladimirDegt/badges/large)](https://www.codewars.com/users/username)   
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
