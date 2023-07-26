@@ -42,7 +42,7 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 
 <h3 align="center">Codewars</h3>
 
-[![codewars](https://www.codewars.com/users/VladimirDegt/badges/large)](https://www.codewars.com/users/username)   
+[![codewars](https://www.codewars.com/users/VladimirDegt/badges/small)](https://www.codewars.com/users/username)   
 
 <h3 align="center">Stats</h3>
 
