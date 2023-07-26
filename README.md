@@ -3,12 +3,11 @@
 </br>
 I'm a passionate JavaScript developer with of experience in front-end development and expertise in the JavaScript- framework React. I have a track of delivering high-quality web applications and enjoy collaborating in teams. With a strong focus on clean, maintainable code and exceptional user experiences, I continuously stay updated with the latest industry trends to drive innovation in my work. Let's connect and discuss how I can contribute to your projects and build amazing web applications together.
 
-
 - 🌍  I'm based in Kharkiv
 - ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
 - 🧠  I'm learning Neoversity. IT Master\`s degree
 
-<q align="center">Nothing will work unless you do</q>
+<h3 align="center"><q>Nothing will work unless you do</q></h3>
 
 <div align="center">
 <h3 align="center">Skills</h3>
