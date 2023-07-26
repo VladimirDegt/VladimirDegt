@@ -6,9 +6,9 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 - 🌍  I'm based in Kharkiv
 - ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
 - 🧠  I'm learning Neoversity. IT Master\`s degree
-
-<h3 align="center"><q>Nothing will work unless you do</q></h3>
-
+</br>
+<h3 align="center"><i><q>Nothing will work unless you do</q></i></h3>
+</br>
 <div align="center">
 <h3 align="center">Skills</h3>
 <!-- ### Skills -->
