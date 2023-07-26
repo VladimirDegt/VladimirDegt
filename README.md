@@ -7,7 +7,7 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 - ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
 - 🧠  I'm learning Neoversity. IT Master\`s degree
 </br>
-<h3 align="center"><i><q>Nothing will work unless you do</q></i></h3>
+<h3 align="center"><u></u><i><q>Nothing will work unless you do</q></i></u></h3>
 </br>
 <div align="center">
 <h3 align="center">Skills</h3>
