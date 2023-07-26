@@ -56,7 +56,5 @@ I'm a passionate JavaScript developer with of experience in front-end developmen
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VladimirDegt&theme=solarized_dark)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ![](https://komarev.com/ghpvc/?username=VladimirDegt)
 </div>
