@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dehtiarev Volodymyr<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Javascript developer</h3>
 </br>
-I'm a passionate JavaScript developer with of experience in front-end development and expertise in the JavaScript- framework React. I have a track of delivering high-quality web applications and enjoy collaborating in teams. With a strong focus on clean, maintainable code and exceptional user experiences, I continuously stay updated with the latest industry trends to drive innovation in my work. Let's connect and discuss how I can contribute to your projects and build amazing web applications together.
+I'm a passionate JavaScript developer with years of experience in front-end development and expertise in the JavaScript framework React. I also have a strong command of Node.js for creating server-side components of applications. I have a proven track record of delivering high-quality web applications and thrive in collaborative team environments. With a strong focus on writing clean, maintainable code and crafting exceptional user experiences, I make it a priority to stay updated with the latest industry trends to drive innovation in my work. Let's connect and discuss how I can contribute to your projects and help us build amazing web applications together.
 
 - 🌍  I'm based in Kharkiv
 - ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
