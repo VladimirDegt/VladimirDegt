@@ -58,4 +58,3 @@ I'm a passionate JavaScript developer with years of experience in front-end deve
 
 ![](https://komarev.com/ghpvc/?username=VladimirDegt)
 </div>
-[![Volodymyr profile views](https://u8views.com/github/VladimirDegt)
