@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Dehtiarev Volodymyr<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software developer</h3>
 </br>
-I'm a passionate JavaScript developer with years of experience in front-end development and expertise in the JavaScript framework React. I also have a strong command of Node.js for creating server-side components of applications. I have a proven track record of delivering high-quality web applications and thrive in collaborative team environments. With a strong focus on writing clean, maintainable code and crafting exceptional user experiences, I make it a priority to stay updated with the latest industry trends to drive innovation in my work. Let's connect and discuss how I can contribute to your projects and help us build amazing web applications together.
+Software Developer with two years of commercial experience and a proven track record of developing products that have been
+recognized as intellectual property assets by the company. Experienced in team leadership and knowledgeable in Agile Product
+Management.
 
 - 🌍  I'm based in Kharkiv
 - ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
@@ -30,11 +32,20 @@ I'm a passionate JavaScript developer with years of experience in front-end deve
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<h3 align="center">Database</h3>
 <!-- ### Database -->
+
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<h3 align="center">At present</h3>
+<!-- ### At present -->
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <h3 align="center">Socials</h3>
 <!-- ### Socials -->
