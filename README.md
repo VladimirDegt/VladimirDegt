@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Dehtiarev Volodymyr<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software developer</h3>
-</br>
+
 Software Developer with two years of commercial experience and a proven track record of developing products that have been
 recognized as intellectual property assets by the company. Experienced in team leadership and knowledgeable in Agile Product
 Management.
 
 <!-- ### Contacts -->
+
 - 🌍  I'm based in Kharkiv
 - ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
 - 🧠  I'm learning at [Woolf University](https://woolf.university/)
