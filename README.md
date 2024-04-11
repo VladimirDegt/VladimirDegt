@@ -5,7 +5,7 @@ I'm a passionate JavaScript developer with years of experience in front-end deve
 
 - 🌍  I'm based in Kharkiv
 - ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
-- 🧠  I'm learning at ![Woolf University](https://woolf.university/))
+- 🧠  I'm learning at [Woolf University](https://woolf.university/)
 </br>
 <h3 align="center"><u></u><i><q>Nothing will work unless you do</q></i></u></h3>
 </br>
@@ -32,6 +32,9 @@ I'm a passionate JavaScript developer with years of experience in front-end deve
 
 <!-- ### Database -->
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <h3 align="center">Socials</h3>
 <!-- ### Socials -->
