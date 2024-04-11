@@ -4,6 +4,7 @@
 Software Developer with two years of commercial experience and a proven track record of developing products that have been
 recognized as intellectual property assets by the company. Experienced in team leadership and knowledgeable in Agile Product
 Management.
+
 <!-- ### Contacts -->
 - 🌍  I'm based in Kharkiv
 - ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
