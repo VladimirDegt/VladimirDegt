@@ -5,7 +5,7 @@ I'm a passionate JavaScript developer with years of experience in front-end deve
 
 - 🌍  I'm based in Kharkiv
 - ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
-- 🧠  I'm learning Neoversity. IT Master\`s degree
+- 🧠  I'm learning at ![Woolf University](https://woolf.university/))
 </br>
 <h3 align="center"><u></u><i><q>Nothing will work unless you do</q></i></u></h3>
 </br>
@@ -29,6 +29,9 @@ I'm a passionate JavaScript developer with years of experience in front-end deve
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+<!-- ### Database -->
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 <h3 align="center">Socials</h3>
 <!-- ### Socials -->
