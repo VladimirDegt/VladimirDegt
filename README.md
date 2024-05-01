@@ -65,7 +65,7 @@ Management.
 
 <h3 align="center">Streak Stats</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirDegt&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirDegt&theme=algolia)](https://git.io/streak-stats)
 
 <h3 align="center">Stats</h3>
 
