@@ -57,13 +57,15 @@ Management.
 <h3 align="center">Trophy</h3>
 <!-- ### Trophy -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VladimirDegt)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VladimirDegt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="center">Codewars</h3>
 
 [![codewars](https://www.codewars.com/users/VladimirDegt/badges/small)](https://www.codewars.com/users/username)   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirDegt)](https://git.io/streak-stats)
+<h3 align="center">Streak Stats</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirDegt&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="center">Stats</h3>
 
