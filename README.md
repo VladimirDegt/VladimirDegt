@@ -63,6 +63,8 @@ Management.
 
 [![codewars](https://www.codewars.com/users/VladimirDegt/badges/small)](https://www.codewars.com/users/username)   
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirDegt)](https://git.io/streak-stats)
+
 <h3 align="center">Stats</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirDegt&theme=solarized_dark)
