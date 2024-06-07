@@ -7,7 +7,7 @@ Management.
 
 <!-- ### Contacts -->
 
-- 🌍  I'm based in Kharkiv
+- 🌍  I'm based in Kyiv
 - ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
 - 🧠  I'm learning at [Woolf University](https://woolf.university/)
 </br>
