@@ -81,3 +81,4 @@ Management.
 
 ![](https://komarev.com/ghpvc/?username=VladimirDegt)
 </div>
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com?repo_name=VladimirDegt%2Fcodeium.vim)
