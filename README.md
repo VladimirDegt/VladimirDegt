@@ -81,3 +81,5 @@ Management.
 
 ![](https://komarev.com/ghpvc/?username=VladimirDegt)
 </div>
+[![autocomplete](https://codeium.com/badges/user/fraudulently-moral-grackle-88639/autocomplete)](https://codeium.com/profile/fraudulently-moral-grackle-88639)
+[![streak](https://codeium.com/badges/v2/user/fraudulently-moral-grackle-88639/streak)](https://codeium.com/profile/fraudulently-moral-grackle-88639)
