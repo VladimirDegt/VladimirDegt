@@ -8,7 +8,9 @@ Management.
 <!-- ### Contacts -->
 
 - 🌍  I'm based in Kyiv
-- ✉️  You can contact me at [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
+- ✉️  How to reach me:
+  - [degtyarevvladimirr@gmail.com](mailto:degtyarevvladimirr@gmail.com)
+  - [LinkedIn profile](www.linkedin.com/in/volodymyr-dehtiarev)
 - 🧠  I'm learning at [Woolf University](https://woolf.university/)
 </br>
 <h3 align="center"><u></u><i><q>Nothing will work unless you do</q></i></u></h3>
