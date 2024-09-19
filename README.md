@@ -15,6 +15,19 @@ Management.
 </br>
 <h3 align="center"><u></u><i><q>Nothing will work unless you do</q></i></u></h3>
 </br>
+
+### Frontend Templates
+
+- **Next.js Template**: A starter template for Next.js applications, optimized for performance and SEO.  
+  [Explore Next.js Template](https://github.com/VladimirDegt/next-ts-boilerplate)
+
+### Backend Templates
+
+- **NestJS Template**: A comprehensive starter template for NestJS applications, including built-in support for common features.  
+  [Explore NestJS Template](https://github.com/VladimirDegt/nest-boilerplate)
+
+You can fix these templates and adapt them to your needs. Happy coding!
+
 <div align="center">
 <h3 align="center">Skills</h3>
 <!-- ### Skills -->
