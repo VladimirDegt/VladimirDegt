@@ -5,7 +5,7 @@ Software Developer with two years of commercial experience and a proven track re
 recognized as intellectual property assets by the company. Experienced in team leadership and knowledgeable in Agile Product
 Management.
 
-<!-- ### Contacts -->
+## Contacts
 
 - 🌍  I'm based in Kyiv
 - ✉️  How to reach me:
@@ -15,6 +15,11 @@ Management.
 </br>
 <h3 align="center"><u></u><i><q>Nothing will work unless you do</q></i></u></h3>
 </br>
+
+## Start Your Project with My Templates
+
+If you're starting a new project and looking for a solid foundation, check out my repository templates below. They are designed to give you a head start and streamline the development process.
+
 
 ### Frontend Templates
 
@@ -28,9 +33,7 @@ Management.
 
 You can fix these templates and adapt them to your needs. Happy coding!
 
-<div align="center">
-<h3 align="center">Skills</h3>
-<!-- ### Skills -->
+## Skills
 
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -49,28 +52,24 @@ You can fix these templates and adapt them to your needs. Happy coding!
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<h3 align="center">Database</h3>
-<!-- ### Database -->
+## Database
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3 align="center">At present</h3>
-<!-- ### At present -->
+## At present
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3 align="center">Socials</h3>
-<!-- ### Socials -->
+## Socials
 
 <p align="center"> <a href="https://www.github.com/VladimirDegt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/volodymyr-dehtiarev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<h3 align="center">Trophy</h3>
-<!-- ### Trophy -->
+## Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VladimirDegt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
