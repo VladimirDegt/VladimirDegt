@@ -35,7 +35,6 @@ You can fix these templates and adapt them to your needs. Happy coding!
 
 ## Skills
 
-<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -59,7 +58,7 @@ You can fix these templates and adapt them to your needs. Happy coding!
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## At present
+## At Present
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -67,21 +66,21 @@ You can fix these templates and adapt them to your needs. Happy coding!
 
 ## Socials
 
-<p align="center"> <a href="https://www.github.com/VladimirDegt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/volodymyr-dehtiarev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.github.com/VladimirDegt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/volodymyr-dehtiarev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ## Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VladimirDegt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">Codewars</h3>
+<h3>Codewars</h3>
 
 [![codewars](https://www.codewars.com/users/VladimirDegt/badges/small)](https://www.codewars.com/users/username)   
 
-<h3 align="center">Streak Stats</h3>
+<h3>Streak Stats</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirDegt&theme=algolia)](https://git.io/streak-stats)
 
-<h3 align="center">Stats</h3>
+<h3>Stats</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirDegt&theme=solarized_dark)
 
