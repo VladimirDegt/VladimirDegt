@@ -17,7 +17,8 @@ Management.
 </br>
 
 ## Commercial projects
-1. [Explore NestJS Template](https://zolochivska.com.ua/) (Role: Teamlead, Backend, Code: NDA)
+1. [https://zolochivska.com.ua](https://zolochivska.com.ua/) (role: Teamlead, Backend, code: NDA)
+2. [https://batatfarm.com](https://batatfarm.com/) (role: Teamlead, Fullstack, code: NDA)
 
 ## Start Your Project with My Templates
 
