@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Volodymyr Dehtiarev <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Software developer</h3>
+# Hi there, I'm Volodymyr Dehtiarev <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+## Software developer
 
 Software Developer with two years of commercial experience and a proven track record of developing products that have been
 recognized as intellectual property assets by the company. Experienced in team leadership and knowledgeable in Agile Product
@@ -13,13 +13,13 @@ Management.
   - [LinkedIn profile](https://www.linkedin.com/in/volodymyr-dehtiarev/)
 - 🧠  I'm learning at [Woolf University](https://woolf.university/)
 </br>
-<h3 align="center"><u></u><i><q>Nothing will work unless you do</q></i></u></h3>
+<h3 align="left"><u></u><i><q>Nothing will work unless you do</q></i></u></h3>
 </br>
 
 ## Commercial projects
 1. [https://zolochivska.com.ua](https://zolochivska.com.ua/) (role: Teamlead, Backend, code: NDA)
 2. [https://batatfarm.com](https://batatfarm.com/) (role: Teamlead, Fullstack, code: NDA)
-3. [https://delivery-pdf-front.vercel.app](https://delivery-pdf-front.vercel.app/) ((role: Fullstack, code: [Link](https://github.com/VladimirDegt/Delivery-PDF-front)))
+3. [https://delivery-pdf-front.vercel.app](https://delivery-pdf-front.vercel.app/) (role: Fullstack, code: [Link](https://github.com/VladimirDegt/Delivery-PDF-front))
 
 ## Start Your Project with My Templates
 
