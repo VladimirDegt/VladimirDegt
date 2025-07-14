@@ -20,7 +20,7 @@ Management.
 1. [https://zolochivska.com.ua](https://zolochivska.com.ua/) (role: Teamlead, Backend, code: NDA)
 2. [https://batatfarm.com](https://batatfarm.com/) (role: Teamlead, Fullstack, code: NDA)
 3. [https://delivery-pdf-front.vercel.app](https://delivery-pdf-front.vercel.app/) (role: Fullstack, code: [Link](https://github.com/VladimirDegt/Delivery-PDF-front))
-4. [https://you-know-eight.vercel.app](https://you-know-eight.vercel.app) (role: Author, only mobile)
+4. [Iwonda - IOS app](https://apps.apple.com/us/app/iwonda/id6747800154?platform=iphone) (role: Author, about: [Link](https://github.com/VladimirDegt/Iwonder/tree/main))
 
 ## Start Your Project with My Templates
 
