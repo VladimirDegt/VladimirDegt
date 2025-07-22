@@ -1,9 +1,10 @@
 # Hi there, I'm Volodymyr Dehtiarev <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 ## Software developer
 
-Software Developer with two years of commercial experience and a proven track record of developing products that have been
-recognized as intellectual property assets by the company. Experienced in team leadership and knowledgeable in Agile Product
-Management.
+Software Developer with four years of commercial experience.
+
+Featured in the media:
+Ukrainian tech media [dev.ua](https://dev.ua/) wrote about my journey and work — [Read the article (in Ukrainian)](https://dev.ua/news/iwonda-1753079548)
 
 ## Contacts
 
